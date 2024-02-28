@@ -28,7 +28,7 @@ This codebase demonstrates the following:
     ```
 3. Run the code:
     ```
-    python main.py
+    python App.py
     ```
 
 ## Dataset
